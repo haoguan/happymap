@@ -1,0 +1,52 @@
+.question{
+
+}
+#ask{
+    color: white;
+    padding-top:15px;
+    padding-left: 15px;
+    left: 44%;
+    position: fixed;
+
+}
+#search{
+
+    top: 10%;
+    left: 44%;
+    position: fixed;
+    border: 2px solid white;
+}
+
+body{
+    background: black;
+}
+.emotion{
+
+
+}
+.emotion a{
+
+    width: 120px;
+    padding: 5px;
+
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background:red;
+
+    border: 2px solid white;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: none;
+
+    top: 50%;
+    left: 45%;
+    position: fixed;
+
+}
+
+
+
+
